@@ -20,4 +20,3 @@ pre-commit template to use in Python projects
     ```
     pre-commit install
     ```
-4. 
