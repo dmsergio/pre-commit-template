@@ -20,3 +20,8 @@ pre-commit template to use in Python projects
     ```
     pre-commit install
     ```
+4. Run manually hooks.
+    ```
+    pre-commit run --files {file_to_check}
+    pre-commit run --all-files  # run all hooks over each file of the project
+    ```
